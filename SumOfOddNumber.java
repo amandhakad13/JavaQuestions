@@ -22,6 +22,6 @@ public class SumOfOddNumber {
             }
         }
 
-        return sum; 
+        return sum;
     }
 }
